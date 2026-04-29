@@ -1,0 +1,10 @@
+{
+  "name": "qr-login-doc-reader-skill-runtime",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Runtime dependencies for qr-login-doc-reader skill scripts.",
+  "dependencies": {
+    "playwright": "^1.54.2"
+  }
+}

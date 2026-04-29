@@ -1,0 +1,4 @@
+interface:
+  display_name: "QR Doc Reader"
+  short_description: "Read docs behind QR login walls safely"
+  default_prompt: "Use $qr-login-doc-reader to open a protected requirements-doc URL, complete QR login if needed, and return extracted content with artifact paths."
